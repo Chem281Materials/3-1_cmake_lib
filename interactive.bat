@@ -1,1 +1,1 @@
-docker run --rm -it -v %cd%:/repo msse/cmakelib
+podman run --rm -it -v %cd%:/repo msse/cmakelib
